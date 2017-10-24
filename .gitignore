@@ -2,6 +2,7 @@
 .vs/
 bin/
 obj/
+*.user
 
 # .NET Core
 **/Properties/launchSettings.json
