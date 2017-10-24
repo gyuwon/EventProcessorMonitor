@@ -1,2 +1,13 @@
 # Visual Studio
-.vs
+.vs/
+bin/
+obj/
+
+# .NET Core
+**/Properties/launchSettings.json
+
+# ASP.NET Core
+**/wwwroot/dist/
+
+# Node.js
+node_modules
